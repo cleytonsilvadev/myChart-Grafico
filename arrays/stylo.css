@@ -1,0 +1,12 @@
+.bt1 {
+  width: 200px;
+  height: 28px;
+  background-color: blue;
+  color: aliceblue;
+}
+.bt2 {
+  width: 200px;
+  height: 28px;
+  background-color: rgb(255, 0, 0);
+  color: aliceblue;
+}
